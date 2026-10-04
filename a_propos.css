@@ -1,0 +1,22 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+	bacground-color:#fff;
+}
+
+#logo{
+	position:fixed;
+	top:0;
+	left:0;
+	width:9rem;
+	transition:transform 0.3s ease;
+}
+
+#logo:hover{
+	transform:scale(1.06);
+}
+
+#intro{
+	margin-top:10rem;
+}
