@@ -5,6 +5,11 @@
 	bacground-color:#fff;
 }
 
+body{
+	background: linear-gradient(to left, #0a0908, #49111c, #a61c3a,grey,#0a0908);
+
+}
+
 #logo{
 	position:fixed;
 	top:0;
@@ -19,4 +24,6 @@
 
 #intro{
 	margin-top:10rem;
+	color:#fff;
+
 }
